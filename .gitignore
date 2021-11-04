@@ -1,0 +1,7 @@
+.idea/
+.cpcache/
+*.iml
+.nrepl-port
+.shadow-cljs/
+node_modules
+package-lock.json
